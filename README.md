@@ -8,9 +8,9 @@ The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at 
 
 <br><br>Here's the link for you to watch the sessions as well<br>
 
-<a href="https://www.youtube.com/playlist?list=PL7z18TDRnbu LNEA-59W7wwgCWEBLEOD6h"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA
+<a href="https://www.youtube.com/playlist?list=PL7z18TDRnbulNEA-59W7wWgCWE8LEOD6h"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA
 
-ANALYTICS/blob/main/YOUTUBE 28THUMBNAIL-5.png"> </a>
+ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL-5.png"> </a>
 
 <br>I got to have hands on experience on:
 
@@ -40,9 +40,7 @@ or follow SHAPEAI on:
 
 <li><a href=
 
-"https://www.youtube.com/channel/UCTUVDLTW9meuDXWcbmISPA">YouTu
-
-be</a>
+"https://www.youtube.com/channel/UCTUVDLTW9meuDXWcbmISPA">YouTube</a>
 
 <li><a href=
 
